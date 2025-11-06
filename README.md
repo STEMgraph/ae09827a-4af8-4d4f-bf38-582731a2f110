@@ -1,7 +1,11 @@
 <!---
 {
   "id": "ae09827a-4af8-4d4f-bf38-582731a2f110",
-  "depends_on": ["AND", "a4b0b901-5c73-48b4-9eb8-5cedc4d8c67b", "c1f2cd2b-3ffc-44a8-86b1-111f9d246c10", "e8add8e9-7a67-4b50-af89-6c1ce6558e0d"],
+  "depends_on": [
+    "a4b0b901-5c73-48b4-9eb8-5cedc4d8c67b",
+    "c1f2cd2b-3ffc-44a8-86b1-111f9d246c10",
+    "e8add8e9-7a67-4b50-af89-6c1ce6558e0d"
+  ],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-06",
   "keywords": ["systemd", "fastapi", "curl", "python", "web services"]
