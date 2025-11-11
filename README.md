@@ -1,6 +1,7 @@
 <!---
 {
   "id": "ae09827a-4af8-4d4f-bf38-582731a2f110",
+  "teaches": "Running a FastAPI Service with `systemd` and Testing with `curl`",
   "depends_on": [
     "a4b0b901-5c73-48b4-9eb8-5cedc4d8c67b",
     "c1f2cd2b-3ffc-44a8-86b1-111f9d246c10",
